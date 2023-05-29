@@ -4,7 +4,7 @@
 </p>
 
 ### SITE DEMO LINK:
-[Google](https://earnest-pegasus-fbb61c.netlify.app/)
+[Golobe](https://earnest-pegasus-fbb61c.netlify.app/)
 
 
 
