@@ -73,3 +73,9 @@
     min-height: 400px;
   }
 }
+.first{
+  background-image: url("./assets/Flights.png");
+} 
+.second{
+  background-image: url("./assets/Hotels.png");
+}
