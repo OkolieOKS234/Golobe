@@ -3,6 +3,11 @@
     We offer bookings for flights, hotels and 
 </p>
 
+### SITE DEMO LINK:
+[Google](https://earnest-pegasus-fbb61c.netlify.app/)
+
+
+
 ## TECH STACK, FRAMEWORKS
 - ReactJs(Frontend Framework)
 - Sanity.io(Backend CMS)
@@ -10,3 +15,6 @@
 - TailwindCSS (CSS styling)
 - Passport.Js (For signin and Signup auth)
 - React Modal (For popup boxes)
+- Paystack(For payments)
+- Binance Pay Api(For payments)
+- 
